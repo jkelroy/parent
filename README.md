@@ -1,10 +1,9 @@
 parent
-222
+111
 same
-222
+111
 same
 this line is the same
-
 
 hunk
 hunk
